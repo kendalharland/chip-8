@@ -1,2 +1,2 @@
 # simpleVM
-A simple virtual machine written in C++
+A stack based virtual machine written in C++
