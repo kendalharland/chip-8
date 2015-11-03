@@ -1,2 +1,2 @@
-# simpleVM
-A stack based virtual machine written in C++
+# chip-8
+A chip-8 emulator written in C
